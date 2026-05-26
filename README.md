@@ -83,11 +83,11 @@ Infinity Engine is an adaptive, high-performance web directory and file discover
 
 > 🔴 **Infinity Engine Startup**
 > *(Initializes with the signature Red ASCII logo and a 5-second countdown buffer)*
-> `[Add your startup screenshot here]`
+> <img width="977" height="468" alt="Image" src="https://github.com/user-attachments/assets/38d25fe5-3385-4bb6-a42f-c114e095394d" />
 > 
 > 🔴 **Live Scan & Harvesting**
 > *(Displays real-time directory matching and live-crawling of unique parameters)*
-> `[Add your scanning screenshot here]`
+> <img width="1054" height="360" alt="Image" src="https://github.com/user-attachments/assets/4aa2a679-f9a4-42b3-9c9b-c7a1cc9d00d5" />
 
 ---
 
@@ -156,7 +156,8 @@ Infinity Engine is an adaptive, high-performance web directory and file discover
 
 > **Abhilash**
 > - 🐙 GitHub: [shadowkons](https://github.com/shadowkons)
-> - 💼 LinkedIn: `[Add Your LinkedIn Link Here]`
+> - 💼 LinkedIn: www.linkedin.com/in/abhilash-salim-9239b6343
+
 
 ---
 
